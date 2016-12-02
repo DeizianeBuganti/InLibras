@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="br.edu.pdm.tccfreak.test">
+    package="br.edu.pdm.inlibras.test">
 
     <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="24" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="br.edu.pdm.tccfreak"
+                     android:targetPackage="br.edu.pdm.inlibras"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for br.edu.pdm.tccfreak"/>
+                     android:label="Tests for br.edu.pdm.inlibras"/>
 </manifest>

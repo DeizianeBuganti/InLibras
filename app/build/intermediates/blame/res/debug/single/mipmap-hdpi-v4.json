@@ -1,14 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\Deizi\\Documents\\InLibras\\TCCFreak\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_inlibras.png",
-        "source": "C:\\Users\\Deizi\\Documents\\InLibras\\TCCFreak\\app\\src\\main\\res\\mipmap-hdpi\\ic_inlibras.png"
+        "merged": "C:\\Users\\Deizi\\Documents\\InLibras\\android\\InLibras\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Deizi\\Documents\\InLibras\\android\\InLibras\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Deizi\\Documents\\InLibras\\TCCFreak\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_tccfreak.png",
-        "source": "C:\\Users\\Deizi\\Documents\\InLibras\\TCCFreak\\app\\src\\main\\res\\mipmap-hdpi\\ic_tccfreak.png"
-    },
-    {
-        "merged": "C:\\Users\\Deizi\\Documents\\InLibras\\TCCFreak\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\Deizi\\Documents\\InLibras\\TCCFreak\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Deizi\\Documents\\InLibras\\android\\InLibras\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_inlibras.png",
+        "source": "C:\\Users\\Deizi\\Documents\\InLibras\\android\\InLibras\\app\\src\\main\\res\\mipmap-hdpi\\ic_inlibras.png"
     }
 ]

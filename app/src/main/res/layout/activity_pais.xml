@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="br.edu.pdm.tccfreak.PaisActivity">
+    tools:context="br.edu.pdm.inlibras.PaisActivity">
 
     <WebView
         android:layout_width="match_parent"

@@ -20,6 +20,9 @@
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartir con %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Contraer"</string>
     <string msgid="5835639618285370804" name="accept">"Aceptar"</string>
+    <string name="action_settings">Mis Datos</string>
+    <string name="app_name">InLibras</string>
+    <string name="btnCadastro">Registrar</string>
     <string msgid="4778414446709286370" name="cast_ad_label">"Anuncio"</string>
     <string msgid="366047012176970604" name="cast_casting_to_device">"Enviando a %1$s"</string>
     <string msgid="2888745622334830481" name="cast_closed_captions">"Subtítulos"</string>
@@ -81,6 +84,13 @@
     <string msgid="2039274714455389140" name="debug_menu_title">"Seleccionar un modo de depuración"</string>
     <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"Solucionar problemas"</string>
     <string msgid="6099173376375995052" name="decline">"Rechazar"</string>
+    <string name="dlgSair">Dejar</string>
+    <string name="edtEmailUsu">E-mail</string>
+    <string name="edtLogin">Introduzca su nombre de usuario</string>
+    <string name="edtLoginUsu">Nombre de usuario</string>
+    <string name="edtNomeUsu">Nombre completo</string>
+    <string name="edtSenha"> Introduzca su contraseña</string>
+    <string name="edtSenhaUsu">Contraseña</string>
     <string msgid="3698378085901466129" name="mr_button_content_description">"Botón de enviar"</string>
     <string msgid="6349900579507521956" name="mr_chooser_searching">"Buscando dispositivos"</string>
     <string msgid="414301941546135990" name="mr_chooser_title">"Enviar a"</string>
@@ -97,11 +107,28 @@
     <string msgid="4570331844078181931" name="mr_controller_stop">"Dejar de enviar contenido"</string>
     <string msgid="5441529851481176817" name="mr_system_route_name">"Sistema"</string>
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"Dispositivos"</string>
+    <string name="msgLoginErro">Usuario o contraseña no válido!</string>
+    <string name="msgSair"> ¿Realmente quiere salir?</string>
+    <string name="navigation_drawer_close">Cerrar la ventana del navegador</string>
+    <string name="navigation_drawer_open"> Abrir ventana del navegador</string>
+    <string name="opNao">No</string>
+    <string name="opOK">OK</string>
+    <string name="opSim">Sí</string>
     <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Borra la búsqueda"</string>
     <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Buscar"</string>
     <string msgid="146198913615257606" name="search_menu_title">"Buscar"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
     <string msgid="8020323581538738027" name="store_picture_message">"¿Permitir que el anuncio almacene imágenes en la galería de imágenes?"</string>
     <string msgid="4180630057627064606" name="store_picture_title">"Guardar imagen"</string>
+    <string name="txtAlfabeto">La Libras está dada por la siguiente alfabeto manual:</string>
+    <string name="txtDeizi">Deiziane Buganti  deizibuganti@hotmail.com   Desarrollador del Proyecto InLibras</string>
+    <string name="txtDesenvolve">Desarrolladores / Asesor </string>
+    <string name="txtFran">Franciele Petry  franpetry@gmail.com   Supervisor del Proyecto InLibras</string>
+    <string name="txtMeusDados">Mis Datos</string>
+    <string name="txtRafa">Rafael Mezalira  rafamezalira@hotmail.com  Desarrollador del Proyecto InLibras</string>
+    <string name="txtTexto">De acuerdo con la Ley N ° 10.436 que trata de la Lengua Brasileña Señales, en su artículo 1, apartado Uno, declaró que: "Se entiende como Lengua Brasileña de Señales - LIBRAS la forma de comunicación y expresión en el idioma en el la naturaleza visual-motora con su propia estructura gramatical, es un sistema lingüístico de la transmisión de ideas y hechos, procedentes de comunidades de personas sordas de Brasil. ". (BRASIL, 2002).</string>
+    <string name="txtTextoS">El proyecto InLibras comenzó a partir de una idea ya propuesta anteriormente por Guimarães (2013), tiene como principal objetivo proporcionar una herramienta en la que los padres oyentes y los niños sordos pueden aprender a Libras y luego, a partir de eso, desarrollar una interacción familiar, que Actualmente todavía es muy difícil por varios factores. Con esto en mente, la InLibras se desarrolló para acceso movilidad y accesibilidad que permite en cualquier lugar, tiempo o aparato sólo con el requisito de acceso a Internet.</string>
+    <string name="txtTitulo">Lengua Brasileña Señales</string>
+    <string name="txtTituloS">En</string>
     <string msgid="363496807345461806" name="wallet_buy_button_place_holder">"Comprar con Google"</string>
 </resources>

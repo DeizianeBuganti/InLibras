@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="br.edu.pdm.tccfreak"
+    package="br.edu.pdm.inlibras"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -16,15 +16,6 @@
 
     <uses-permission android:name="android.permission.CAMERA" />
 
-    <!--
-         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
-         Google Maps Android API v2, but you must specify either coarse or fine
-         location permissions for the 'MyLocation' functionality. 
-    -->
-    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-    <uses-permission android:name="android.permission.INTERNET" />
-
     <!-- Include required permissions for Google Maps API to run. -->
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
@@ -36,10 +27,10 @@
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
 
     <permission
-        android:name="br.edu.pdm.tccfreak.permission.C2D_MESSAGE"
+        android:name="br.edu.pdm.inlibras.permission.C2D_MESSAGE"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="br.edu.pdm.tccfreak.permission.C2D_MESSAGE" />
+    <uses-permission android:name="br.edu.pdm.inlibras.permission.C2D_MESSAGE" />
 
     <application
         android:allowBackup="true"
@@ -48,7 +39,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="br.edu.pdm.tccfreak.SplashActivity"
+            android:name="br.edu.pdm.inlibras.SplashActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/app_name"
             android:screenOrientation="portrait"
@@ -59,32 +50,17 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="br.edu.pdm.tccfreak.LoginActivity_" />
+        <activity android:name="br.edu.pdm.inlibras.LoginActivity_" />
         <activity
-            android:name="br.edu.pdm.tccfreak.PrincipalActivity"
+            android:name="br.edu.pdm.inlibras.PrincipalActivity"
             android:label="@string/title_activity_principal"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name="br.edu.pdm.tccfreak.CadastroActivity_" />
-        <!--
-             The API key for Google Maps-based APIs is defined as a string resource.
-             (See the file "res/values/google_maps_api.xml").
-             Note that the API key is linked to the encryption key used to sign the APK.
-             You need a different API key for each encryption key, including the release key that is used to
-             sign the APK for publishing.
-             You can define the keys for the debug and release targets in src/debug/ and src/release/. 
-        -->
-        <meta-data
-            android:name="com.google.android.geo.API_KEY"
-            android:value="@string/google_maps_key" />
-
-        <activity
-            android:name="br.edu.pdm.tccfreak.MapaActivity"
-            android:label="@string/title_activity_mapa" />
-        <activity android:name="br.edu.pdm.tccfreak.LibrasActivity_" />
-        <activity android:name="br.edu.pdm.tccfreak.SobreActivity_" />
-        <activity android:name="br.edu.pdm.tccfreak.MeusDadosActivity_" />
-        <activity android:name="br.edu.pdm.tccfreak.CriancasActivity" />
-        <activity android:name="br.edu.pdm.tccfreak.PaisActivity" />
+        <activity android:name="br.edu.pdm.inlibras.CadastroActivity_" />
+        <activity android:name="br.edu.pdm.inlibras.LibrasActivity_" />
+        <activity android:name="br.edu.pdm.inlibras.SobreActivity_" />
+        <activity android:name="br.edu.pdm.inlibras.MeusDadosActivity_" />
+        <activity android:name="br.edu.pdm.inlibras.CriancasActivity" />
+        <activity android:name="br.edu.pdm.inlibras.PaisActivity" />
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"
@@ -138,7 +114,7 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
                 <action android:name="com.google.android.c2dm.intent.RECEIVE" />
                 <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
 
-                <category android:name="br.edu.pdm.tccfreak" />
+                <category android:name="br.edu.pdm.inlibras" />
             </intent-filter>
         </receiver>
         <!--
@@ -162,7 +138,7 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="br.edu.pdm.tccfreak.firebaseinitprovider"
+            android:authorities="br.edu.pdm.inlibras.firebaseinitprovider"
             android:exported="false"
             android:initOrder="100" />
 
@@ -205,7 +181,7 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
             android:noHistory="true" >
  <!-- optional, removes the previewActivity from the activity stack. -->
             <intent-filter>
-                <data android:scheme="tagmanager.c.br.edu.pdm.tccfreak" />
+                <data android:scheme="tagmanager.c.br.edu.pdm.inlibras" />
 
                 <action android:name="android.intent.action.VIEW" />
 

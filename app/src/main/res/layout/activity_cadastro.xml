@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center_vertical"
-    tools:context="br.edu.pdm.tccfreak.CadastroActivity"
+    tools:context="br.edu.pdm.inlibras.CadastroActivity"
     android:weightSum="1">
 
     <ImageView

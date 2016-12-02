@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\Deizi\\Documents\\InLibras\\TCCFreak\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_principal_drawer.xml",
-        "source": "C:\\Users\\Deizi\\Documents\\InLibras\\TCCFreak\\app\\src\\main\\res\\menu\\activity_principal_drawer.xml"
+        "merged": "C:\\Users\\Deizi\\Documents\\InLibras\\android\\InLibras\\app\\build\\intermediates\\res\\merged\\debug\\menu\\principal.xml",
+        "source": "C:\\Users\\Deizi\\Documents\\InLibras\\android\\InLibras\\app\\src\\main\\res\\menu\\principal.xml"
     },
     {
-        "merged": "C:\\Users\\Deizi\\Documents\\InLibras\\TCCFreak\\app\\build\\intermediates\\res\\merged\\debug\\menu\\principal.xml",
-        "source": "C:\\Users\\Deizi\\Documents\\InLibras\\TCCFreak\\app\\src\\main\\res\\menu\\principal.xml"
+        "merged": "C:\\Users\\Deizi\\Documents\\InLibras\\android\\InLibras\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_principal_drawer.xml",
+        "source": "C:\\Users\\Deizi\\Documents\\InLibras\\android\\InLibras\\app\\src\\main\\res\\menu\\activity_principal_drawer.xml"
     }
 ]
