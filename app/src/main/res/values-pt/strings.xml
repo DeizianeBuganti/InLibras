@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InLibras</string>
+    <string name="dummy_content"></string>
+    <string name="edtLogin">Entre com seu login</string>
+    <string name="edtSenha">Entre com sua senha</string>
+    <string name="msgLoginErro">Login ou Senha inválidos!</string>
+    <string name="dlgSair">Sair</string>
+    <string name="msgSair">Você realmente deseja sair?</string>
+    <string name="opNao">Não</string>
+    <string name="opSim">Sim</string>
+    <string name="opOK">OK</string>
+    <string name="navigation_drawer_open">Abrir janela de navegação</string>
+    <string name="navigation_drawer_close">Fechar janela de navegação</string>
+    <string name="action_settings">Meus Dados</string>
+    <string name="btnCadastro">Cadastre-se</string>
+    <string name="edtNomeUsu">Nome completo</string>
+    <string name="edtLoginUsu">Login</string>
+    <string name="edtEmailUsu">E-mail</string>
+    <string name="edtSenhaUsu">Senha</string>
+    <string name="txtTitulo">Língua Brasileira de Sinais</string>
+    <string name="txtTexto">Segundo a Lei nº 10.436 que dispõe sobre a Língua Brasileira de sinais , em seu Art. 1º, Parágrafo Único, consta que: "Entende-se como Língua Brasileira de Sinais - Libras a forma de comunicação e expressão, em que o sistema linguístico de natureza visual-motora, com estrutura gramatical própria, constituem um sistema linguístico de transmissão de ideias e fatos, oriundos de comunidades de pessoas surdas do Brasil.". (BRASIL, 2002).</string>
+    <string name="txtAlfabeto">A Libras é dada pelo seguinte alfabeto manual:</string>
+    <string name="txtTituloS">Sobre</string>
+    <string name="txtTextoS">O projeto InLibras partiu de uma ideia já proposta antes, por Guimarães (2013), tem como principal objetivo, fornecer uma ferramenta na qual pais ouvintes e crianças surdas possam aprender a Libras e então, a partir disso, desenvolver uma interação familiar, o que atualmente ainda é bastante dificultado por diversos fatores. Com essa ideia em mente, o InLibras fora desenvolvido visando mobilidade e acessibilidade permitindo o acesso em qualquer lugar, horário e dispositivo com apenas o requisito de acesso à internet.</string>
+    <string name="txtDesenvolve">Desenvolvedores/Orientadora</string>
+    <string name="txtDeizi">Deiziane Buganti  deizibuganti@hotmail.com  Desenvolvedora do Projeto InLibras</string>
+    <string name="txtRafa">Rafael Mezalira  rafamezalira@hotmail.com  Desenvolvedor do Projeto InLibras</string>
+    <string name="txtFran">Franciele Petry  franpetry@gmail.com  Orientadora do Projeto InLibras</string>
+    <string name="txtMeusDados">Meus Dados</string>
+</resources>

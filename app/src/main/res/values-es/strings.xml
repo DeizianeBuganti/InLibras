@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InLibras</string>
+    <string name="action_settings">Mis Datos</string>
+    <string name="btnCadastro">Registrar</string>
+    <string name="dlgSair">Dejar</string>
+    <string name="edtEmailUsu">E-mail</string>
+    <string name="edtLogin">Introduzca su nombre de usuario</string>
+    <string name="edtLoginUsu">Nombre de usuario</string>
+    <string name="edtNomeUsu">Nombre completo</string>
+    <string name="edtSenha"> Introduzca su contraseña</string>
+    <string name="edtSenhaUsu">Contraseña</string>
+    <string name="msgLoginErro">Usuario o contraseña no válido!</string>
+    <string name="msgSair"> ¿Realmente quiere salir?</string>
+    <string name="navigation_drawer_close">Cerrar la ventana del navegador</string>
+    <string name="navigation_drawer_open"> Abrir ventana del navegador</string>
+    <string name="opNao">No</string>
+    <string name="opOK">OK</string>
+    <string name="opSim">Sí</string>
+    <string name="txtAlfabeto">La Libras está dada por la siguiente alfabeto manual:</string>
+    <string name="txtDeizi">Deiziane Buganti  deizibuganti@hotmail.com   Desarrollador del Proyecto InLibras</string>
+    <string name="txtDesenvolve">Desarrolladores / Asesor </string>
+    <string name="txtFran">Franciele Petry  franpetry@gmail.com   Supervisor del Proyecto InLibras</string>
+    <string name="txtMeusDados">Mis Datos</string>
+    <string name="txtRafa">Rafael Mezalira  rafamezalira@hotmail.com  Desarrollador del Proyecto InLibras</string>
+    <string name="txtTexto">De acuerdo con la Ley N ° 10.436 que trata de la Lengua Brasileña Señales, en su artículo 1, apartado Uno, declaró que: "Se entiende como Lengua Brasileña de Señales - LIBRAS la forma de comunicación y expresión en el idioma en el la naturaleza visual-motora con su propia estructura gramatical, es un sistema lingüístico de la transmisión de ideas y hechos, procedentes de comunidades de personas sordas de Brasil. ". (BRASIL, 2002).</string>
+    <string name="txtTextoS">El proyecto InLibras comenzó a partir de una idea ya propuesta anteriormente por Guimarães (2013), tiene como principal objetivo proporcionar una herramienta en la que los padres oyentes y los niños sordos pueden aprender a Libras y luego, a partir de eso, desarrollar una interacción familiar, que Actualmente todavía es muy difícil por varios factores. Con esto en mente, la InLibras se desarrolló para acceso movilidad y accesibilidad que permite en cualquier lugar, tiempo o aparato sólo con el requisito de acceso a Internet.</string>
+    <string name="txtTitulo">Lengua Brasileña Señales</string>
+    <string name="txtTituloS">En</string>
+</resources>

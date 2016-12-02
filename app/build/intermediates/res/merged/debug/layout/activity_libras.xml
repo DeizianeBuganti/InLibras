@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context="br.edu.pdm.tccfreak.LibrasActivity"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="317dp"
+        android:layout_height="0dp"
+        android:text="@string/txtTitulo"
+        android:id="@+id/txtTitulo"
+        android:layout_weight="0.32"
+        android:gravity="center_horizontal"
+        android:textColor="#1027f4"
+        android:textSize="35dp" />
+
+    <TextView
+        android:layout_width="354dp"
+        android:layout_height="0dp"
+        android:text="@string/txtTexto"
+        android:id="@+id/txtTexto"
+        android:textColor="@color/abc_input_method_navigation_guard"
+        android:textSize="15dp"
+        android:autoText="false"
+        android:gravity="center_horizontal"
+        android:layout_weight="0.55" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:text="@string/txtAlfabeto"
+        android:id="@+id/txtAlfabeto"
+        android:layout_weight="0.16"
+        android:gravity="center_vertical|center_horizontal"
+        android:textColor="#1c31f1"
+        android:textSize="15dp" />
+
+    <ImageView
+        android:layout_width="259dp"
+        android:layout_height="207dp"
+        android:id="@+id/imageView2"
+        android:src="@drawable/alfabeto" />
+
+</LinearLayout>
