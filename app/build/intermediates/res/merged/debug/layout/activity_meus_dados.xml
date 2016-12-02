@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context="br.edu.pdm.tccfreak.MeusDadosActivity"
+    android:weightSum="1">
+
+    <ImageView
+        android:layout_width="345dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/imgLogo"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/inlibras" />
+
+    <TextView
+        android:layout_width="144dp"
+        android:layout_height="wrap_content"
+        android:text="@string/txtMeusDados"
+        android:id="@+id/txtMeusDados"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.05"
+        android:gravity="center_vertical|center_horizontal"
+        android:textSize="24dp" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/design_fab_stroke_end_inner_color"
+        android:layout_weight="0.04"></LinearLayout>
+
+    <TextView
+        android:layout_width="365dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtNome"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.24"
+        android:gravity="center_vertical|center_horizontal"
+        android:textSize="18dp"
+        style="@style/Base.AlertDialog.AppCompat.Light" />
+
+    <TextView
+        android:layout_width="365dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtEmail"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_vertical|center_horizontal"
+        android:layout_weight="0.24"
+        android:textSize="18dp"
+        style="@style/Base.AlertDialog.AppCompat.Light" />
+
+    <TextView
+        android:layout_width="365dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtLogin"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_vertical|center_horizontal"
+        android:layout_weight="0.24"
+        android:textSize="18dp"
+        style="@style/Base.AlertDialog.AppCompat.Light" />
+
+</LinearLayout>

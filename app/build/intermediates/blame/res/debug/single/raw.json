@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Deizi\\Documents\\InLibras\\TCCFreak\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\Deizi\\Documents\\InLibras\\TCCFreak\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.8.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\Users\\Deizi\\Documents\\InLibras\\TCCFreak\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ormlite_config.txt",
+        "source": "C:\\Users\\Deizi\\Documents\\InLibras\\TCCFreak\\app\\src\\main\\res\\raw\\ormlite_config.txt"
+    }
+]

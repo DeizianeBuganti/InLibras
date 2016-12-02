@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">InLibras</string>
+    <string name="dummy_content"></string>
+    <string name="edtLogin">Enter your login</string>
+    <string name="edtSenha">Enter your password</string>
+    <string name="msgLoginErro">Login or password invalid!</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">My Data</string>
+    <string name="dlgSair">Exit</string>
+    <string name="msgSair">Do you really want to exit?</string>
+    <string name="opNao">No</string>
+    <string name="opSim">Yes</string>
+    <string name="opOK">OK</string>
+    <string name="btnCadastro">Register</string>
+    <string name="edtNomeUsu">Full name</string>
+    <string name="edtLoginUsu">Login</string>
+    <string name="edtEmailUsu">E-mail</string>
+    <string name="edtSenhaUsu">Password</string>
+    <string name="title_activity_frequencia">FrequenciaActivity</string>
+    <string name="title_activity_mapa">Mapa</string>
+    <string name="txtTitulo">Brazilian Language of Signals</string>
+    <string name="txtTexto">According to Law No. 10,436, which provides for the Brazilian Sign Language, in its 1st Article, Sole Paragraph, it is stated that: "It is understood as the Brazilian Language of Signals - Libras the form of communication and expression, in which the linguistic system of Visual-motor nature, with its own grammatical structure, constitute a linguistic system of transmission of ideas and facts, originating from communities of deaf people in Brazil. " (BRAZIL, 2002).</string>
+    <string name="txtAlfabeto">The Libras is given by the following manual alphabet:</string>
+    <string name="txtTituloS">About</string>
+    <string name="txtTextoS">The project InLibras was based on an idea already proposed by Guimarães (2013), whose main objective is to provide a tool in which parents and deaf children can learn Libras and, from this, develop a family interaction, which Is still greatly hampered by several factors. With this idea in mind, InLibras was developed for mobility and accessibility, allowing access to any place, time and device with only the requirement of internet access.</string>
+    <string name="txtDesenvolve">Developers/Advisor</string>
+    <string name="txtDeizi">Deiziane Buganti  deizibuganti@hotmail.com  Developer of the InLibras Project</string>
+    <string name="txtRafa">Rafael Mezalira  rafamezalira@hotmail.com  Developer of the InLibras Project</string>
+    <string name="txtFran">Franciele Petry  franpetry@gmail.com  Advisor of the InLibras Project</string>
+    <string name="txtMeusDados">My Data</string>
+</resources>

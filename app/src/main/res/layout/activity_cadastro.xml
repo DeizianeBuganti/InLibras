@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_vertical"
+    tools:context="br.edu.pdm.tccfreak.CadastroActivity"
+    android:weightSum="1">
+
+    <ImageView
+        android:layout_width="360dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/imgFoto"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/inlibras"
+        android:layout_weight="0.21" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.10"
+        android:background="#dbdcdd"></LinearLayout>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edtNomeUsu"
+        android:layout_gravity="center_horizontal"
+        android:hint="@string/edtNomeUsu" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edtLoginUsu"
+        android:hint="@string/edtLoginUsu" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:id="@+id/edtEmailUsu"
+        android:hint="@string/edtEmailUsu" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:id="@+id/edtSenhaUsu"
+        android:hint="@string/edtSenhaUsu" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.05">
+
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="84dp"
+            android:id="@+id/btnCadastrar"
+            android:layout_weight="4.18"
+            android:src="@drawable/cadastrar" />
+
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="84dp"
+            android:id="@+id/btnVoltar"
+            android:layout_weight="4.20"
+            android:src="@drawable/retornar" />
+    </LinearLayout>
+
+</LinearLayout>

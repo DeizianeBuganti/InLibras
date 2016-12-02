@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/mnLibras"
+            android:icon="@android:drawable/ic_menu_info_details"
+            android:title="Libras" />
+        <item
+            android:id="@+id/mnSobre"
+            android:icon="@android:drawable/ic_menu_info_details"
+            android:title="Sobre" />
+        <item
+            android:id="@+id/mnSair"
+            android:icon="@android:drawable/ic_notification_clear_all"
+            android:title="Sair" />
+    </group>
+
+    <item android:title="Ambientes Lúdicos">
+        <menu>
+            <item
+                android:id="@+id/mnCriancas"
+                android:icon="@android:drawable/ic_menu_crop"
+                android:title="Crianças Surdas" />
+            <item
+                android:id="@+id/mnPais"
+                android:icon="@android:drawable/ic_menu_crop"
+                android:title="Pais Ouvintes" />
+        </menu>
+    </item>
+
+</menu>
